@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89173140412",
+    "project_id": "app-fruticola-tejar",
+    "storage_bucket": "app-fruticola-tejar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89173140412:android:0475ccd67d7a5fbd1cc1b9",
+        "android_client_info": {
+          "package_name": "com.example.app_fruticola_tejar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVqozHdKkS-0l-NPQHnpyGlEK6Rwd31-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
